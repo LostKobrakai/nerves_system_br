@@ -1,4 +1,4 @@
-From b6b742c76882acd20cc500285789d8573adb1348 Mon Sep 17 00:00:00 2001
+From 2e11a24fe326a4cfba966d2bc0177149586e3064 Mon Sep 17 00:00:00 2001
 From: Frank Hunleth <fhunleth@troodon-software.com>
 Date: Mon, 24 Jul 2023 08:40:31 -0400
 Subject: [PATCH] erlang: add recursive search fix
